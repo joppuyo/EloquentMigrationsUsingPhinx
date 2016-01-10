@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "3.*",
+        "illuminate/database": "5.2.*",
+        "robmorgan/phinx": "0.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyProject\\": "src"
+        }
+    }
+}
